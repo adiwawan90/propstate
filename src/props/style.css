@@ -1,0 +1,27 @@
+.wrapper{
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+}
+.content{
+    width: 350px;
+    float: left;
+    background-color: blueviolet;
+    margin-right: 20px;
+    -webkit-box-shadow: 10px 10px 5px 5px rgba(25, 38, 171, 1);
+    -moz-box-shadow: 10px 10px 5px 5px rgba(25, 38, 171, 1);
+    box-shadow: 10px 10px 5px 5px rgba(25, 38, 171, 1);;
+}
+.imageslider{
+    width: 350px;
+    border-bottom: 2px dashed;
+}
+.des{
+    text-align: center;
+    font-weight: bold;
+}
+.wrapperapp{
+    width: 1200px;
+    margin: auto;
+    border-radius: 10px;
+}
